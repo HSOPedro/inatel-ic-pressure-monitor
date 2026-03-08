@@ -1,4 +1,4 @@
-# Pressure Monitoring System with ESP32 and FSR Sensor
+# inatel-ic-pressure-monitor
 
 ## 📖 Project Description
 
